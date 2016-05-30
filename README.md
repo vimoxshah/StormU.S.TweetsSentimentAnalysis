@@ -1,4 +1,4 @@
-# StormTweetsSentimentAnalysis
+# Storm Tweets Sentiment Analysis
 ----------
 
 ## Features
