@@ -2,6 +2,7 @@
 ----------
 
 ## Features
+* This Application uses  Apache Storm distributed framework.
 * Application retrieves tweets from Twitter stream (using [Twitter4J](http://twitter4j.org)).<br>
 * It analyses sentiments of the tweets from US.
 * There are three different objects within a tweet that we can use to determine it’s origin. This application tries to find the location using all the three options and prioritizes location received in the following order [high to low]:
