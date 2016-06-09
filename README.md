@@ -16,3 +16,7 @@
 * While processing, after every 30 seconds [configurable], the application logs the sentiment values of the states to the console and simultaneously to a log file using Logback.<br>
 * By understanding sentiment values, we can get the most happiest state of US and most unhappiest state as well.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vimoxshah/stormu.s.tweetssentimentanalysis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
